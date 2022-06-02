@@ -1,0 +1,10 @@
+C:\Users\Cimorexave\source\repos\numsyscal\numsyscal\bin\Debug\numsyscal.exe.config
+C:\Users\Cimorexave\source\repos\numsyscal\numsyscal\bin\Debug\numsyscal.exe
+C:\Users\Cimorexave\source\repos\numsyscal\numsyscal\bin\Debug\numsyscal.pdb
+C:\Users\Cimorexave\source\repos\numsyscal\numsyscal\obj\Debug\numsyscal.csproj.AssemblyReference.cache
+C:\Users\Cimorexave\source\repos\numsyscal\numsyscal\obj\Debug\numsyscal.Form1.resources
+C:\Users\Cimorexave\source\repos\numsyscal\numsyscal\obj\Debug\numsyscal.Properties.Resources.resources
+C:\Users\Cimorexave\source\repos\numsyscal\numsyscal\obj\Debug\numsyscal.csproj.GenerateResource.cache
+C:\Users\Cimorexave\source\repos\numsyscal\numsyscal\obj\Debug\numsyscal.csproj.CoreCompileInputs.cache
+C:\Users\Cimorexave\source\repos\numsyscal\numsyscal\obj\Debug\numsyscal.exe
+C:\Users\Cimorexave\source\repos\numsyscal\numsyscal\obj\Debug\numsyscal.pdb
